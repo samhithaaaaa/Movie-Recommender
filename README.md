@@ -2,6 +2,8 @@
 
 A content-based Movie Recommender System built using Python and Streamlit. Enter a movie you like and get recommendations for similar movies, along with posters and genre tags!
 
+---
+
 🔍 Features
 
 - Search and select a movie title
@@ -10,6 +12,7 @@ A content-based Movie Recommender System built using Python and Streamlit. Enter
 - Styled with custom CSS for a card-based layout
 - Integrated with TMDb API to fetch real movie posters
 
+---
 
 📁 Project Structure
 
@@ -23,6 +26,7 @@ A content-based Movie Recommender System built using Python and Streamlit. Enter
 
 └── README.md # Project documentation
 
+---
 
 🧠 How It Works
 
@@ -36,16 +40,18 @@ This project uses TMDb API to fetch poster images.
 Replace the hardcoded API key in streamlit_app.py with your own:
 api_key = "your_api_key_here"
 
+---
 
 🛠️ Technologies Used
 
-Python
-Streamlit
-Pandas
-Requests
-Pickle
-TMDb API
+-Python
+-Streamlit
+-Pandas
+-Requests
+-Pickle
+-TMDb API
 
+---
 
 📊 Dataset
 
