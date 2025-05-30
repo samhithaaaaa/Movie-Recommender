@@ -44,12 +44,17 @@ api_key = "your_api_key_here"
 
 🛠️ Technologies Used
 
--Python
--Streamlit
--Pandas
--Requests
--Pickle
--TMDb API
+- Python
+  
+- Streamlit
+  
+- Pandas
+  
+- Requests
+  
+- Pickle
+  
+- TMDb API
 
 ---
 
