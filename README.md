@@ -47,5 +47,11 @@ Pickle
 TMDb API
 
 
+📊 Dataset
+
+This project uses the [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) which includes:
+
+- `tmdb_5000_movies.csv`
+- `tmdb_5000_credits.csv`
 
 
