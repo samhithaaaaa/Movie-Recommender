@@ -14,9 +14,13 @@ A content-based Movie Recommender System built using Python and Streamlit. Enter
 📁 Project Structure
 
 ├── streamlit_app.py # Main Streamlit app
+
 ├── movies_list.pkl # Pickled file containing movie data (title, tags, movie_id)
+
 ├── similarity.pkl # Precomputed similarity matrix
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project documentation
 
 
